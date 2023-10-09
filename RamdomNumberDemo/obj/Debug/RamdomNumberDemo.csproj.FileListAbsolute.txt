@@ -1,0 +1,8 @@
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\bin\Debug\RamdomNumberDemo.exe.config
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\bin\Debug\RamdomNumberDemo.exe
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\bin\Debug\RamdomNumberDemo.pdb
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\obj\Debug\RamdomNumberDemo.csproj.AssemblyReference.cache
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\obj\Debug\RamdomNumberDemo.csproj.SuggestedBindingRedirects.cache
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\obj\Debug\RamdomNumberDemo.csproj.CoreCompileInputs.cache
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\obj\Debug\RamdomNumberDemo.exe
+C:\EGARCIA\C#\Cs_Advanced_Topics\RamdomNumberDemo\obj\Debug\RamdomNumberDemo.pdb

@@ -1,0 +1,3 @@
+C:\EGARCIA\C#\Cs_Advanced_Topics\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\EGARCIA\C#\Cs_Advanced_Topics\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\EGARCIA\C#\Cs_Advanced_Topics\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache

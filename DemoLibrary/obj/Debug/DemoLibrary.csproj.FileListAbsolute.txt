@@ -1,6 +1,0 @@
-C:\EGARCIA\C#\Cs_Advanced_Topics\DemoLibrary\bin\Debug\DemoLibrary.dll
-C:\EGARCIA\C#\Cs_Advanced_Topics\DemoLibrary\bin\Debug\DemoLibrary.pdb
-C:\EGARCIA\C#\Cs_Advanced_Topics\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
-C:\EGARCIA\C#\Cs_Advanced_Topics\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
-C:\EGARCIA\C#\Cs_Advanced_Topics\DemoLibrary\obj\Debug\DemoLibrary.dll
-C:\EGARCIA\C#\Cs_Advanced_Topics\DemoLibrary\obj\Debug\DemoLibrary.pdb

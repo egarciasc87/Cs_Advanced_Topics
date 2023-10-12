@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +10,7 @@ namespace RamdomNumberDemo
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             ////Random numbers
             //Random random = new Random();
@@ -18,14 +19,42 @@ namespace RamdomNumberDemo
             //rd.ListRandomPeople(random);
 
 
-            //Interfaces
-            List<IProductModel> cart = AddSampleData();
-            CustomerModel customer = new CustomerModel();
+            ////Interfaces
+            //List<IProductModel> cart = AddSampleData();
+            //CustomerModel customer = new CustomerModel();
 
-            foreach (var item in cart)
-            {
-                item.ShipItem(customer.GetDefaultCustomer());
-            }
+            //foreach (var item in cart)
+            //{
+            //    item.ShipItem(customer.GetDefaultCustomer());
+            //}
+
+            //Console.ReadLine();
+
+
+            //Abstract Classes
+            //List<DataAccess> dataAccess = new List<DataAccess>
+            //{
+            //    new SqlDataAccess(),
+            //    new SqlliteDataAccess()
+            //};
+
+            //foreach (var r in dataAccess)
+            //{
+            //    r.LoadConnectionString("demo");
+            //    r.LoadData("select * from table");
+            //    r.SaveData("insert into table...");
+            //    Console.WriteLine("Success!!! \n");
+            //}
+
+
+            //Asyn, await, task
+            //AsyncAwaitTask.MakeTea();
+            //await AsyncAwaitTask.MakeTeaAsync();
+
+            //AsyncAwaitTask.Method1Async();
+            //AsyncAwaitTask.Method2Async();
+
+            AsyncAwaitTask.ListNumbers();
 
             Console.ReadLine();
         }
